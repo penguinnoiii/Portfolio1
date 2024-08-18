@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Kalnia+Glaze:wght@100..700&family=Source+Code+Pro:ital,wght@0,200..900;1,200..900&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #8380B6;
+    font-family: "Source Code Pro", monospace;
+}
+
+section {
+    background-color: #C2CAE8;
+    margin: 20px;
+    padding: 30px 50px;
+    border-radius: 50px;;
+}
+
+.intro {
+    color: #564b5d;
+    text-align: center;
+    
+}
+
+.sawako {
+    display: block;
+    max-width: 350px;
+    margin: auto;
+    padding: 12px;
+}
+
+.lists img {
+    max-width: 250px;
+}
+
+div.lists {
+    border: 1px solid #000000;
+    text-align: center;
+    background-color: #edeefb;
+    margin: 12px;
+    padding: px;
+}
+
+div.lists img {
+    width: 100%;
+    height: auto;
+}
+
+div.lists:hover {
+    background-color: #c2c3d3;
+}
